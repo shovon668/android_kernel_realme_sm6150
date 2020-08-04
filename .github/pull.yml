@@ -1,5 +1,0 @@
-version: "1"
-rules:
-  - base: lineage-17.1
-    upstream: dev-harsh1998:lineage-17.1    # change `wei` to the owner of upstream repo
-    mergeMethod: hardreset
